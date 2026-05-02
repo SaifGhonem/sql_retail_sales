@@ -217,8 +217,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **Instagram**: [Follow me for daily tips and updates]([https://www.instagram.com/saif_ghoneim])
-- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/saif-ghonem-a54b672aa]))
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/saif_ghoneim)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/saif-ghonem-a54b672aa)
 - **Facebook**: [Follow my page for daily tips and data analysis content](https://www.facebook.com/seif.ghoneim.5)
 - **WhatsApp**: [Reach out to me directly for any questions or discussions](https://wa.me/201018577813)
 

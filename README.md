@@ -208,3 +208,18 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 2.  **Set Up the Database**: Run the SQL script provided to create the table and populate the database.
 3.  **Run the Queries**: Use the SQL queries provided above to clean the data and perform your analysis.
 4.  **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+
+## Author - Saif Mohamed Ghonem
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+### Stay Updated and Join the Community
+
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+
+- **Instagram**: [Follow me for daily tips and updates]([https://www.instagram.com/saif_ghoneim])
+- **LinkedIn**: [Connect with me professionally]([https://www.linkedin.com/in/saif-ghonem-a54b672aa]))
+- **Facebook**: [Follow my page for daily tips and data analysis content](https://www.facebook.com/seif.ghoneim.5)
+- **WhatsApp**: [Reach out to me directly for any questions or discussions](https://wa.me/201018577813)
+
+Thank you for your support, and I look forward to connecting with you!
